@@ -1,0 +1,5 @@
+{
+  "name": "Connect Chat",
+  "description": "A real-time chat application powered by BroadcastChannel for multi-tab communication. Open multiple tabs to simulate multiple users!",
+  "requestFramePermissions": []
+}
